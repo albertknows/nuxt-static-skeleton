@@ -1,6 +1,6 @@
 [build]
 
-  base = "nuxt-static-skeleton"
+  base = "frontend"
   publish = "dist"
   command = "npm run generate"
 
