@@ -1,6 +1,6 @@
 [build]
 
-base: "albertknows"
+base = "albertknows"
 command = "npm run production"
 publish = "build_production"
 
