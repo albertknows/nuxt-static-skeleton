@@ -1,5 +1,6 @@
 [build]
 
+base: "albertknows"
 command = "npm run production"
 publish = "build_production"
 
