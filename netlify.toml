@@ -3,8 +3,3 @@
   base = "frontend"
   publish = "dist"
   command = "npm run generate"
-
-[[plugins]]
-package = "@netlify/plugin-sitemap"
-  [plugins.inputs]
-  buildDir = "dist"
