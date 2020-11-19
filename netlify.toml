@@ -1,9 +1,3 @@
-[build]
-
-base = "nuxt-static-skeleton"
-command = "npm run production"
-publish = "build_production"
-
 [[plugins]]
 package = "@netlify/plugin-sitemap"
   [plugins.inputs]
